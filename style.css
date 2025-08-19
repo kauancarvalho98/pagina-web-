@@ -1,7 +1,7 @@
 </head>
 <body>
 
-/* Cores / :root { --bg: #eaf4ff; / azul claro de fundo / --bg-alt: #f7fbff; / tom levemente diferente para seções / --card: #ffffff; / cards/branco / --text: #0b1a2b; / texto principal --muted: #4b5b74; /* texto auxiliar / --primary: #1e4b8f; / azul escuro para títulos/links / --accent: #0b6bd6; / detalhe/realce / --border: #dbe6f4; / bordas suaves */ --shadow: 0 2px 8px rgba(0,0,0,.08); }
+:root { --bg: #eaf4ff; /* azul claro de fundo / --bg-alt: #f7fbff; / tom levemente diferente para seções / --card: #ffffff; / cards/branco / --text: #0b1a2b; / texto principal / --muted: #4b5b74; / texto auxiliar / --primary: #1e4b8f; / azul escuro para títulos/links / --accent: #0b6bd6; / detalhe/realce / --border: #dbe6f4; / bordas suaves */ --shadow: 0 2px 8px rgba(0,0,0,.08); }
 
 { box-sizing: border-box; }
 html, body { height: 100%; background: var(--bg); color: var(--text); font-family: Arial, sans-serif; margin: 0; padding: 0; }
